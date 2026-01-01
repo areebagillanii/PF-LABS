@@ -1,0 +1,17 @@
+Tasks of while loop- Write a program to print all numbers from 1 to N, where N is entered by the user.
+- Write a program to display the multiplication table of a number entered by the user.
+- Write a C++ program that repeatedly asks the user to input a positive number. If the user enters a negative number, zero, the program should display an appropriate error message and ask again. Use a while loop to ensure the program keeps asking until the user enters a valid positive number. Once a positive number is entered, display the number and terminate the program.
+- Write a C++ program to calculate the sum of the first five natural numbers (1, 2, 3, 4, 5) using a while loop.
+
+Tasks of while loop- Implement a menu-driven program for a simple banking system. The program should allow the user to perform the following operations:
+a. Deposit Money: Add a specified amount to the account balance.
+b. Withdraw Money: Deduct a specified amount from the account balance, ensuring that the balance does not go negative.
+c. Check Balance: Display the current account balance.
+d. Exit: Terminate the program.
+The system should initialize with a default balance (e.g., $1000) and should continue to display the menu until the user chooses to exit. Ensure the program handles invalid inputs gracefully, such as insufficient balance during withdrawal or invalid menu choices.
+Tasks of do-while loop
+
+- Write a program that prompts the user to enter a password.
+If the entered password is incorrect, they should be asked to try again until the password matches the correct one.
+
+- Write a program for a restaurant which provides user the facility to order items from the menu provided. User should be able to select from menu and submenu listed under each main menu item. Price for each item is fixed/given by District Food Authority. Your Program should be able to calculate the total bill, the user have to pay and the ability to order until he wants. Develop your program according to the requirements table given in the next slide. User should be able to tell the amount he wants to order for item. For example (if he wants 2 KG of chicken karahi etc…).
