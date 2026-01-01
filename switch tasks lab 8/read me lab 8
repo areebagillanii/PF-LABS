@@ -1,0 +1,13 @@
+Tasks – switch
+
+- Write a C++ program that acts as a simple calculator. The program should take two numbers and an operator (+, -, *, /) as inputs and perform the corresponding operation using a switch statement. If an invalid operator is entered, the program should display an appropriate error message.
+
+- Write a C++ program that takes an integer (1-7) as input and uses a switch statement to display the corresponding day of the week (e.g., 1 for Monday, 2 for Tuesday, etc.). If the number is not in the range of 1 to 7, display an error message.
+
+- Write a C++ program that calculates the area of different shapes. Use a switch statement to let the user select a shape (1 for Circle, 2 for Rectangle, 3 for Triangle) and input the necessary dimensions. The program should compute and display the area based on the selected shape.
+  Tasks – switch
+
+- Write a C++ program that acts as a currency converter. Use a switch statement to let the user choose between converting from USD to PKR, INR, Euros. Display the converted amount based on the exchange rate and the amount entered by the user.
+                                                                                                                           Tasks – switch
+
+- Write a C++ program that acts as a currency converter. Use a switch statement to let the user choose between converting from USD to PKR, INR, Euros. Display the converted amount based on the exchange rate and the amount entered by the user.
